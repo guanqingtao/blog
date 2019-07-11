@@ -1,3 +1,5 @@
+<a rel="nofollow" href="http://info.flagcounter.com/h9V1"  ><img src="http://s03.flagcounter.com/count/h9V1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/"  alt="Flag Counter"  border="0"  ></a>  
+  
 ### 文章列表  
 ----  
 ##### 20170629_02.md   [《PostgreSQL 连接攻击（类似DDoS）》](20170629_02.md)  
@@ -5,7 +7,7 @@
 ##### 20170627_01.md   [《PostgreSQL 9种索引的原理和应用场景》](20170627_01.md)  
 ##### 20170625_01.md   [《PostgreSQL\GPDB 毫秒级海量多维数据透视 案例分享》](20170625_01.md)  
 ##### 20170624_01.md   [《使用PostgreSQL逻辑订阅实现multi-master》](20170624_01.md)  
-##### 20170622_01.md   [《PostGIS 坐标转换(SRID)的边界问题 - ST_Transform》](20170622_01.md)  
+##### 20170622_01.md   [《PostGIS 坐标转换(SRID)的边界问题引发的专业知识 - ST_Transform》](20170622_01.md)  
 ##### 20170620_01.md   [《空间复合索引加速空间搜索》](20170620_01.md)  
 ##### 20170619_02.md   [《数据入库实时转换 - trigger , rule》](20170619_02.md)  
 ##### 20170619_01.md   [《数据库平滑switchover的要素 - 会话资源漂移》](20170619_01.md)  
@@ -26,8 +28,8 @@
 ##### 20170605_01.md   [《AI(OtterTune)引波澜 - AI会洗牌数据库行业吗? DBA如何转变思想》](20170605_01.md)  
 ##### 20170604_01.md   [《JSONB 压缩版本 ZSON》](20170604_01.md)  
 ##### 20170603_01.md   [《采用 部分索引、表达式索引 提高搜索效率》](20170603_01.md)  
-##### 20170602_02.md   [《PostgreSQL 数据采样与脱敏》](20170602_02.md)  
+##### 20170602_02.md   [《PostgreSQL Oracle 兼容性 之 - 数据采样与脱敏》](20170602_02.md)  
 ##### 20170602_01.md   [《PostgreSQL 数据去重方法大全》](20170602_01.md)  
 ##### 20170601_03.md   [《PostgreSQL 的表传输功能》](20170601_03.md)  
-##### 20170601_02.md   [《PostgreSQL 应用案例 - 目录》](20170601_02.md)  
+##### 20170601_02.md   [《PostgreSQL、Greenplum 《如来神掌》 - 目录 - 珍藏级》](20170601_02.md)  
 ##### 20170601_01.md   [《PostgreSQL DBA cookbook - 目录》](20170601_01.md)  
