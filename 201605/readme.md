@@ -2,6 +2,7 @@
   
 ### 文章列表  
 ----  
+##### 20160531_02.md   [《PostgreSQL 多维分析 CASE》](20160531_02.md)  
 ##### 20160531_01.md   [《PostgreSQL 函数稳定性与constraint_excluded分区表逻辑推理过滤的CASE》](20160531_01.md)  
 ##### 20160529_03.md   [《PostgreSQL ECPG 开发 DEMO》](20160529_03.md)  
 ##### 20160529_02.md   [《EDB PPAS(Oracle 兼容版)的"坑" 不兼容PostgreSQL一例》](20160529_02.md)  
@@ -36,4 +37,4 @@
 ##### 20160506_01.md   [《论count与offset使用不当的罪名 和 分页的优化》](20160506_01.md)  
 ##### 20160505_01.md   [《论云数据库编程能力的重要性》](20160505_01.md)  
 ##### 20160503_02.md   [《PostgreSQL 可靠性和一致性 代码分析》](20160503_02.md)  
-##### 20160503_01.md   [《PostgreSQL Oracle 兼容性之 - psql prompt like Oracle SQL*Plus》](20160503_01.md)  
+##### 20160503_01.md   [《PostgreSQL Oracle 兼容性之 - psql prompt like Oracle SQL\*Plus》](20160503_01.md)  
